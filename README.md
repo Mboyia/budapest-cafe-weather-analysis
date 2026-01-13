@@ -13,6 +13,7 @@ Focus:
 ## Tech Stack
 - AWS S3 (data lake)
 - AWS Glue (crawlers + catalog)
+- AWS Glue ETL
 - AWS Lambda (weather ingestion from Open-Meteo)
 - Amazon Athena (SQL analytics)
 
